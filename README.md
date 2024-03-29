@@ -5,7 +5,6 @@ This repository contains wordlists for directory brute-forcing, useful for penet
 ## Contributors
 
 - Sugat Nikam
-  ![Sugat Nikam](https://avatars.githubusercontent.com/u/131534956?v=4)
 
 ## Description
 
