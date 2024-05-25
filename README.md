@@ -2,10 +2,6 @@
 
 This repository contains wordlists for directory brute-forcing, useful for penetration testing, security assessments, and bug bounty hunting.
 
-## Contributors
-
-- Sugat Nikam
-
 ## Description
 
 Directory brute-forcing is a technique used in cybersecurity to discover hidden or sensitive directories on web servers. This project provides wordlists containing common directory names, filenames, and variations that can be used in brute-force attacks.
